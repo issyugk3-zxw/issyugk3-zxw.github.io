@@ -22,7 +22,10 @@ export const enNavbar = defineNavbarConfig([
   {
     text: 'Notes',
     icon:'material-symbols:stylus-note-outline-rounded',
-    items: [{ text: 'Demo', link: '/notes/demo/README.md' }]
+    items: [
+      { text: 'PRML', link: '/PRML/',icon: 'carbon:character-patterns' },
+
+    ]
   },
   
   
