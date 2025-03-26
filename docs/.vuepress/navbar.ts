@@ -23,7 +23,7 @@ export const enNavbar = defineNavbarConfig([
     text: 'Notes',
     icon:'material-symbols:stylus-note-outline-rounded',
     items: [
-      { text: 'PRML', link: '/PRML/',icon: 'carbon:character-patterns' },
+      { text: 'Machine Learning', link: '/ML/',icon: 'carbon:ibm-machine-learning-for-zos' },
 
     ]
   },

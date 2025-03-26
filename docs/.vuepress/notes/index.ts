@@ -1,10 +1,10 @@
 import {  defineNotesConfig } from 'vuepress-theme-plume'
-import {enPRMLNote} from './PRML'
+import {enMLNote} from './ML'
 
 
 export const enNotes = defineNotesConfig({
     dir: 'notes',
     link: '/',
-    notes: [enPRMLNote],
+    notes: [enMLNote],
   })
 

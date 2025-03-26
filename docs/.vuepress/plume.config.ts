@@ -3,7 +3,7 @@ import { enNavbar} from './navbar'
 import { enNotes } from './notes/index'
 
 
-const kaggle_svg = '<svg height="512px" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="512px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="comp_x5F_189-kaggle"><g><path d="    M385.708,472.847L254.742,310.082l125.578-121.534c2.334-2.426,1.526-9.433-4.761-9.433h-62.16c-3.145,0-6.288,1.618-9.433,4.761    L185.128,303.973V36.369c0-4.491-2.247-6.737-6.738-6.737h-46.618c-4.492,0-6.737,2.246-6.737,6.737V475.54    c0,4.491,2.246,6.738,6.737,6.738h46.618c4.491,0,6.738-2.247,6.738-6.738v-97.91l27.666-26.317l99.257,126.294    c2.695,3.145,5.839,4.762,9.432,4.762h60.095c3.143,0,4.939-0.899,5.389-2.696L385.708,472.847z" style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;"/></g></g><g id="Layer_1"/></svg>'
+const kaggle_svg = '<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="-96 0 512 512"><path fill="#dfdada" d="M304.2 501.5L158.4 320.3L298.2 185c2.6-2.7 1.7-10.5-5.3-10.5h-69.2c-3.5 0-7 1.8-10.5 5.3L80.9 313.5V7.5q0-7.5-7.5-7.5H21.5Q14 0 14 7.5v497q0 7.5 7.5 7.5h51.9q7.5 0 7.5-7.5v-109l30.8-29.3l110.5 140.6c3 3.5 6.5 5.3 10.5 5.3h66.9q5.25 0 6-3z" stroke-width="23" stroke="#686666"/></svg>'
 
 
 /**
@@ -56,7 +56,7 @@ export default defineThemeConfig({
       profile: {
         avatar: '/self.JPG',
         name: 'issyugk3-zxw',
-        description: 'At least it is not too late.',
+        description: '"To record."',
         circle: true,
         location: 'Hangzhou, China',
         organization: 'Zhejiang Univ. of Technology',

@@ -6,7 +6,8 @@ import { defineClientConfig } from 'vuepress/client'
 
 import Timeline from './theme/components/Timeline.vue'
 import Skills from './theme/components/Skills.vue'
-// import './theme/styles/custom.css'
+
+import './theme/styles/style.css'
 
 export default defineClientConfig({
   enhance({ app }) {

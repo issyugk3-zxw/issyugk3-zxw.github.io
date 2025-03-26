@@ -1,9 +1,9 @@
 import { defineNoteConfig } from 'vuepress-theme-plume'
 
 
-export const enPRMLNote = defineNoteConfig({
-    dir: 'PRML',
-    link: '/PRML',
+export const enMLNote = defineNoteConfig({
+    dir: 'ML',
+    link: '/ML',
     sidebar: 'auto',
     
   })
