@@ -146,7 +146,7 @@ export const otherTech = [
     },
     {
         icon:'fluent-emoji:llama',
-        name:'IlamaIndex'
+        name:'LlamaIndex'
     },
     {
         icon:'logos:chroma',
