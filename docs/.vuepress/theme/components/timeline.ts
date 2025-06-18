@@ -1,7 +1,7 @@
 import { ref } from "vue";
 export const educationTimeline = ref([
-    { date: "2025-10",  detail: "Expected: Enroll in The UTokyo as an master's student under Professor Ryuichiro Nakato's supervision", type: "education" },
-    { date: "2025-6",  detail: "Expected: Gradute from ZJUT", type: "education" },
+    { date: "2025-10",  detail: "Expected: Enroll in UTokyo as an master student", type: "education" },
+    { date: "2025-6",  detail: "Graduted from ZJUT", type: "education" },
 
     { date: "2024-9",   detail: "Recieved second prize of scholarship for study", type: "awards" },
     { date: "2024-8",   detail: "Recieved national second prize of China College Students' Outsourcing Innovation and Entrepreneurship Contest", type: "competition" },
