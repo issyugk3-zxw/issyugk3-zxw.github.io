@@ -54,7 +54,7 @@ export default defineThemeConfig({
        * @see https://theme-plume.vuejs.press/config/basic/#profile
        */
       profile: {
-        avatar: '/self.jpg',
+        avatar: '/self.JPG',
         name: 'issyugk3-zxw',
         description: '"To record."',
         circle: true,
