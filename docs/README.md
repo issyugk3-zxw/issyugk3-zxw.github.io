@@ -10,7 +10,7 @@ config:
     bannerMask: 0.6
     hero:
       name: issyugk3-zxw
-      tagline: Undergraduate Student & Developer
+      tagline: Master Student & Developer
       text: Logic takes me from A to B, imagination takes me to anywhere.
       actions:
         -
