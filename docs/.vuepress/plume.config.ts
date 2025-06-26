@@ -58,8 +58,8 @@ export default defineThemeConfig({
         name: 'issyugk3-zxw',
         description: '"To record."',
         circle: true,
-        location: 'Hangzhou, China',
-        organization: 'Zhejiang Univ. of Technology',
+        location: 'Tokyo, Japan',
+        organization: 'The University of Tokyo',
       },
 
       navbar: enNavbar,
