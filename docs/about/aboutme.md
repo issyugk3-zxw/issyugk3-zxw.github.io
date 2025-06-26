@@ -10,8 +10,8 @@ Hi my real name is Xuewen Zhou, I just graduated from ZJUT!
 🔜 I will soon be joining **Nakato Lab** at the **Institute for Quantitative Biosciences (IQB), The University of Tokyo** as a master student. I will be conducting research under the supervision of **Professor Ryuichiro Nakato**.  
 
 ## Education
-- **Master Student in Science** | Department of Computational Biology and Medical Science, Graduate School of Frontier Sciences, The University of Tokyo  *2025.10-current* | Supervisor: Ryuichiro Nakato
-- **Bachelor in Software Engineering** | School of Computer Science and Technology, Zhejiang University of Technology *2021.09-2025.06* | Supervisor: Kechen Zheng
+- **Master Student in Science** | Department of Computational Biology and Medical Science, Graduate School of Frontier Sciences, The University of Tokyo  *2025.10-current* | Supervisor: Prof.Ryuichiro Nakato
+- **Bachelor in Software Engineering** | School of Computer Science and Technology, Zhejiang University of Technology *2021.09-2025.06* | Supervisor: Prof.Kechen Zheng
 
 
 ## 🔬 Research Interests  
