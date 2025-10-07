@@ -5,9 +5,9 @@ permalink: /about/aboutme/
 pageLayout: 'doc'
 ---
 ## 🌟 Who Am I  
-Hi my real name is Xuewen Zhou, I just graduated from ZJUT!
+Hi my real name is Xuewen Zhou, you can call me **Sherwin or シュウ**.
 
-🔜 I will soon be joining **Nakato Lab** at the **Institute for Quantitative Biosciences (IQB), The University of Tokyo** as a master student. I will be conducting research under the supervision of **Professor Ryuichiro Nakato**.  
+I am now a master student in **Nakato Lab** at the **Institute for Quantitative Biosciences (IQB), The University of Tokyo**. I will be conducting research under the supervision of **Professor Ryuichiro Nakato**.  
 
 ## Education
 - **Master Student in Science** | Department of Computational Biology and Medical Science, Graduate School of Frontier Sciences, The University of Tokyo  *2025.10-current* | Supervisor: Prof.Ryuichiro Nakato
