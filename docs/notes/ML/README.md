@@ -13,6 +13,7 @@ I would be grateful if anyone read this could offer me some advice.
 Here are the links to the notes:
 
 ## Traditional Learning
+- [0.Recommended Papers](/ML/4pveufqm/)
 - [1.Bayeian-view Methods](/ML/u0q5o2j0/)
 - [2.Frequentist-view Methods](/ML/sa39a9gm/)
 ## Modern Deep Learning

@@ -24,6 +24,8 @@ export const enNavbar = defineNavbarConfig([
     icon:'material-symbols:stylus-note-outline-rounded',
     items: [
       { text: 'Machine Learning', link: '/ML/',icon: 'carbon:ibm-machine-learning-for-zos' },
+      { text: "Bioinformatics", link: '/Bioinformatics/',icon: 'mdi:dna' },
+      { text: "Deep Learning", link: '/DeepLearning/',icon: 'mdi:robot' },
 
     ]
   },

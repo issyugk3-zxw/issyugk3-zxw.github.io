@@ -16,7 +16,7 @@ export default defineThemeConfig({
 
   social: [
     { icon: 'github', link: 'https://github.com/issyugk3-zxw' },
-    { icon: 'x', link:'https://x.com/issyugk3'},
+    { icon: 'x', link:'https://x.com/issyugk3-zxw'},
     { icon: 'linkedin', link:''},
     { icon: {svg:kaggle_svg, name:'kaggle'}, link:'https://kaggle.com/issyugk3'},
 
